@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 2rem 6rem;
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
+
+p {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+button {
+  padding: 0.2rem 0.5rem;
+  background: #fff;
+  border: 1px solid #333;
+  cursor: pointer;
+}
+
+.main__lat-lon {
+  margin: 1rem 0;
+  padding: 0.5rem;
+  background: pink;
+}
+
+.main__lat-lon p {
+  margin: 0;
+}
+
+.map {
+  height: 340px;
+  margin-top: 1rem;
+}
+
+.card {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: pink;
+  font-weight: 600;
+  color: #333;
+}
